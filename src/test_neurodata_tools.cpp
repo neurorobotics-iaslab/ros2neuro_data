@@ -3,7 +3,7 @@
 #include "ros2neuro_msgs/msg/neuro_data_float.hpp"
 #include "ros2neuro_msgs/msg/neuro_data_int32.hpp"
 
-using namespace rosneuro;
+using namespace ros2neuro;
 
 int main(int argc, char** argv) {
 

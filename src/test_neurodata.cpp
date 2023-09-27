@@ -1,6 +1,6 @@
 #include "ros2neuro_data/NeuroData.hpp"
 
-using namespace rosneuro;
+using namespace ros2neuro;
 
 int main(int argc, char** argv) {
 

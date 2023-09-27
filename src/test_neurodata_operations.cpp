@@ -1,6 +1,6 @@
 #include "ros2neuro_data/NeuroData.hpp"
 
-using namespace rosneuro;
+using namespace ros2neuro;
 
 void print_data(const NeuroData<float>* data) {
     for(auto i=0; i<data->size(); i++)

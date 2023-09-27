@@ -3,7 +3,7 @@
 
 #include "ros2neuro_data/NeuroDataTools.hpp"
 
-namespace rosneuro {
+namespace ros2neuro {
 
 
 bool NeuroDataTools::ConfigureNeuroMessage(const NeuroFrame& frame, ros2neuro_msgs::msg::NeuroFrame& msg) {

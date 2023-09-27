@@ -5,7 +5,7 @@
 #include <string>
 #include <vector>
 
-namespace rosneuro {
+namespace ros2neuro {
 
 struct NeuroDataInfo {
     size_t                      nsamples         = 0;

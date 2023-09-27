@@ -8,7 +8,7 @@
 #include "ros2neuro_msgs/msg/neuro_data_info.hpp"
 #include "ros2neuro_msgs/msg/neuro_frame.hpp"
 
-namespace rosneuro {
+namespace ros2neuro {
 
 class NeuroDataTools {
 
